@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Kokken",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "bla",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Heart",
+        "large Intestine",
+        "Liver"
+      ]
+    },
+    {
+      "category": "Kukken",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "bla bla",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "60",
+        "15",
+        "90"
+      ]
+    },
+    {
+      "category": "Kikken",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "bla bla bla",
+      "correct_answer": "The Flash",
+      "incorrect_answers": [
+        "The Arrow",
+        "Black Canary",
+        "Daredevil"
+      ]
+    },
+    {
+      "category": "Kekken",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "bla bla bla",
+      "correct_answer": "Miranda Wright",
+      "incorrect_answers": [
+        "Dick Tracy",
+        "Eddie Valiant",
+        "Dr. Ludwig von Drake"
+      ]
+    },
+    {
+      "category": "Kakken",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "bla bla blubb",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "1"
+      ]
+    }
+  ]
+}
