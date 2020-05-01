@@ -48913,7 +48913,7 @@ hu:function(a){return this.Fz(a)},
 Fz:function(a){var t=0,s=P.a3(u.y),r,q=this,p,o,n
 var $async$hu=P.W(function(b,c){if(b===1)return P.a0(c,s)
 while(true)switch(t){case 0:t=3
-return P.a5(q.mq("assets/quiz_data/categories_old.json"),$async$hu)
+return P.a5(q.mq("quiz_data/categories_old.json"),$async$hu)
 case 3:o=c
 n=J.aj(o)
 P.dg(n.h(o,"categories"))

@@ -3,12 +3,12 @@
     {
       "id": 0,
       "name": "Cephalosporine",
-      "path": "assets/quiz_data/cephalosporine.json"
+      "path": "quiz_data/cephalosporine.json"
     },
     {
       "id": 1,
       "name": "Kokken",
-      "path": "assets/quiz_data/kokken.json"
+      "path": "quiz_data/kokken.json"
     }
   ]
 }
