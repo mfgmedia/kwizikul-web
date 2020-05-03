@@ -2,13 +2,23 @@
   "categories": [
     {
       "id": 0,
-      "name": "Cephalosporine",
-      "path": "quiz_data/cephalosporine.json"
+      "name": "Conditionals",
+      "path": "quiz_data/conditionals.json"
     },
     {
       "id": 1,
-      "name": "Kokken",
-      "path": "quiz_data/kokken.json"
+      "name": "Infinitive and -ing forms",
+      "path": "quiz_data/ing_forms.json"
+    },
+    {
+      "id": 2,
+      "name": "Modals",
+      "path": "quiz_data/modals.json"
+    },
+    {
+      "id": 3,
+      "name": "Quantifiers",
+      "path": "quiz_data/quantifiers.json"
     }
   ]
 }
