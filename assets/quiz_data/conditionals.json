@@ -1,35 +1,43 @@
-[
-  {
-    "category": "conditionals",
-    "question": "If I ever ________ a million dollars, I ________ a house overlooking the Mediterranean Sea.",
-    "correct_answers": "won; would buy",
-    "incorrect_answers": [
-      "will win; would buy",
-      "am winning; should buy",
-      "have won; will buy"
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "category": "conditionals",
-    "question": "If I ________ a new car, I ________ it to that service station.",
-    "correct_answers": "had bought; would never bring",
-    "incorrect_answers": [
-      "had; would brought",
-      "will buy; will always have",
-      "buyed; will brought"
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "category": "conditionals",
-    "question": "When I ________ for my first teaching job, my mother ________ over the moon.",
-    "correct_answers": "apply; will be",
-    "incorrect_answers": [
-      "have applied; had been",
-      "applied; has been",
-      "will apply; had been"
-    ],
-    "difficulty": "easy"
-  }
-]
+{
+  "results": [
+    {
+      "category": "conditionals",
+      "question": "If I ever ________ a million dollars, I ________ a house overlooking the Mediterranean Sea.",
+      "correct_answers": null,
+      "incorrect_answers": [
+        "will win; would buy",
+        "am winning; should buy",
+        "have won; will buy"
+      ],
+      "difficulty": "easy",
+      "type": "multiple",
+      "correct_answer": "won; would buy"
+    },
+    {
+      "category": "conditionals",
+      "question": "If I ________ a new car, I ________ it to that service station.",
+      "correct_answers": null,
+      "incorrect_answers": [
+        "had; would brought",
+        "will buy; will always have",
+        "buyed; will brought"
+      ],
+      "difficulty": "easy",
+      "type": "multiple",
+      "correct_answer": "had bought; would never bring"
+    },
+    {
+      "category": "conditionals",
+      "question": "When I ________ for my first teaching job, my mother ________ over the moon.",
+      "correct_answers": null,
+      "incorrect_answers": [
+        "have applied; had been",
+        "applied; has been",
+        "will apply; had been"
+      ],
+      "difficulty": "easy",
+      "type": "multiple",
+      "correct_answer": "apply; will be"
+    }
+  ]
+}
